@@ -16,7 +16,7 @@
   ],
   "require": {
     "php": "~7.4",
-    "magento/module-eav": "~102.1.2"
+    "magento/module-eav": "~102.1"
   },
   "autoload": {
     "files": [
