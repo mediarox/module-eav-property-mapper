@@ -2,7 +2,7 @@
   "name": "mediarox/module-eav-property-mapper",
   "description": "Allows to use db properties for adding attributes",
   "type": "magento2-module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": [
     "MIT"
   ],
@@ -16,7 +16,7 @@
   ],
   "require": {
     "php": "~7.4",
-    "magento/module-eav": "~102.1.2"
+    "magento/module-eav": "~102.1"
   },
   "autoload": {
     "files": [
