@@ -9,7 +9,7 @@ namespace Mediarox\EavPropertyMapper\Plugin\Entity\Setup;
 
 class PropertyMapper
 {
-    protected const EAV_PROPERTIES_LONG_TO_SHORT = [
+    public const EAV_PROPERTIES_LONG_TO_SHORT = [
         'backend_type' => 'type',
         'backend_model' => 'backend',
         'backend_table'=> 'table',
